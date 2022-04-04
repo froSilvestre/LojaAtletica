@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">LojaAtletica</string>
+    <string name="titulo">Título</string>
+    <string name="subtitulo">Subtitulo</string>
+    <string name="categorias_populares"> Categorias Populares </string>
+    <string name="categorias_produtos_recenter"> Produtos Recentes </string>
+    <string name="abada">Abada</string>
+    <string name="titulo_produto_especifico">Título Produto</string>
+    <string name="preco">R$ 29,90</string>
+    <string name="comprar">Comprar</string>
+    <string name="descricao">Descrição</string>
+</resources>
